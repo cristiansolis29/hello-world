@@ -1,6 +1,8 @@
 # hello-world
 
-## This is a heading
+## This is a secondary heading
+
+### This is a tertiary heading
 
 This is my first repository and will be used as an example.
 
